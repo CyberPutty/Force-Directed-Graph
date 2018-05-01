@@ -1,4 +1,4 @@
-# D3-Scatterplot
-D3 scatterplot using dataset for doping in professional Cycling on Alpe d'Huez. Created random color generator for unique names.
-![Image of Cycling-Scatterplot]( ./thumbnail.png )
+# D3-Force-Directed-Graph
+D3 Force Directed Graph using dataset for countries that share borders.
+![Image of Force directed graph]( ./thumbnail.png )
 try it on [Codepen](https://codepen.io/Cyberputty/full/pVRjKQ/)!
